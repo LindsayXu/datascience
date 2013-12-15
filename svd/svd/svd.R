@@ -37,11 +37,19 @@ reduce <- function(A, dim) {
   
 }
 
-#first approximation
-tux.gray.reduce1 <- reduce(tux.gray, 1)
-image(1:dims[1],1:dims[2], tux.gray.reduce1, col = grey(seq(0, 1, length = 256)))
 
-#more approximation
-tux.gray.reduce50 <- reduce(tux.gray, 50)
-image(1:dims[1],1:dims[2], tux.gray.reduce50, col = grey(seq(0, 1, length = 256)))
+
+# Scale the data matrix in order to determine what components are contributing the most to variance
+tux.gray.svd <- svd(scale(tux.gray))
+plot(tux.gray.svd$d, xlab="Column", ylab="Singular value", pch=19)
+plot(tux.gray.svd$d^2/sum(tux.gray.svd$d^2), xlab="Column", ylab="Percent of variance explained")
+tux.gray.pct.variance <- tux.gray.svd$d^2/sum(tux.gray.svd$d^2)
+
+# Out of the 1038 singular values of our 'image matrix', 20 of those values account for 93% of the variance
+sum(tux.gray.pct.variance[1:20])
+# [1] 0.9360585
+
+#Code below shows what the penguin looks like when approximated by these 20 components
+tux.gray.reduce20 <- reduce(tux.gray, 20)
+image(1:dims[1],1:dims[2], tux.gray.reduce20, col = grey(seq(0, 1, length = 256)))
 
