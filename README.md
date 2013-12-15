@@ -1,7 +1,7 @@
 datascience
 ===========
 
-Hi!  My name is Ralph Brooks, and I am a data scientist based out of Dallas, TX. I am currently looking for new career opportunities. If I can be of assistance to you or if I can provide additional information, feel free to contact me at ralph_brooks@yahoo.com 
+Hi!  My name is Ralph Brooks, and I am a data scientist based out of Dallas, TX. I am currently looking for new career opportunities. If I can be of assistance to you or if I can provide additional information, feel free to contact me at ralph_brooks@yahoo.com. 
 
 Some examples of my technical skills include the following: 
 
@@ -25,3 +25,9 @@ https://github.com/ralphbrooks/datascience/blob/master/Media-Mix-Modeling/Media-
 * Singular Value Decomposition- Determining the minimum components needed to get a reasonable approximation of an image
 
 https://github.com/ralphbrooks/datascience/blob/master/svd/svd/svd.R
+
+* Propensity Score Matching - Basic example that shows the effect that a training program has on a rise in income
+
+https://github.com/ralphbrooks/datascience/blob/master/Propensity-Score-Matching/Propensity-Score-Matching.R
+
+
