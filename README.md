@@ -9,7 +9,7 @@ As an introduction to my background, feel free to take a look at my resume at : 
 
 Some examples of my technical skills include the following: 
 
-BIG DATA EXPOSURE
+BIG DATA
 
 * Hadoop with R - Use of big data within R in order to examine average airport delay times
 
