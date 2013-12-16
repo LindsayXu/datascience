@@ -42,6 +42,10 @@ https://github.com/ralphbrooks/datascience/blob/master/Propensity-Score-Matching
 
 https://github.com/ralphbrooks/datascience/blob/master/SurvivalAnalysis/survivalanalysis.R
 
+* Approach to missing data - A brief discussion of how to handle missing data in R that I put together on a self-hosted WordPress site.
+
+http://turningdataintomoney.com/what-should-i-do-with-all-that-missing-data/
+
 MICROSOFT T-SQL
 
 * SQL to pull data from SQL Server 2008 - This slightly complex query pulls and aggregates customer data from a number of different tables (using several with statements and left joins)
