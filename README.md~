@@ -38,4 +38,6 @@ https://github.com/ralphbrooks/datascience/blob/master/svd/svd/svd.R
 
 https://github.com/ralphbrooks/datascience/blob/master/Propensity-Score-Matching/Propensity-Score-Matching.R
 
+* Survival Analysis - Example showing how unemployment insurance affects the time take it takes to find a job.
 
+https://github.com/ralphbrooks/datascience/blob/master/SurvivalAnalysis/survivalanalysis.R

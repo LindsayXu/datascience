@@ -41,3 +41,10 @@ https://github.com/ralphbrooks/datascience/blob/master/Propensity-Score-Matching
 * Survival Analysis - Example showing how unemployment insurance affects the time take it takes to find a job.
 
 https://github.com/ralphbrooks/datascience/blob/master/SurvivalAnalysis/survivalanalysis.R
+
+MICROSOFT T-SQL
+
+* SQL to pull data from SQL Server 2008 - This slightly complex query pulls and aggregates customer data from a number of different tables (using several with statements and left joins)
+
+https://github.com/ralphbrooks/datascience/blob/master/SQL-Examples/Customer-Extract.sql
+
