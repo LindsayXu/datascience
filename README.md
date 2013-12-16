@@ -19,6 +19,10 @@ https://github.com/ralphbrooks/RHadoop-demo/blob/master/airplane/airplane.R
 
 https://github.com/ralphbrooks/RHadoop-demo/tree/master/airplane/AirplaneProject/src
 
+* Hadoop with Python - Basic Mapper and Reducer to count words in Python with Hadoop.
+
+https://github.com/ralphbrooks/datascience/tree/master/Hadoop/PythonWordcount
+
 
 ADVANCED ANALYTICS
 
@@ -34,4 +38,6 @@ https://github.com/ralphbrooks/datascience/blob/master/svd/svd/svd.R
 
 https://github.com/ralphbrooks/datascience/blob/master/Propensity-Score-Matching/Propensity-Score-Matching.R
 
+* Survival Analysis - Example showing how unemployment insurance affects the time take it takes to find a job.
 
+https://github.com/ralphbrooks/datascience/blob/master/SurvivalAnalysis/survivalanalysis.R

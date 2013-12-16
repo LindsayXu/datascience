@@ -9,7 +9,7 @@ As an introduction to my background, feel free to take a look at my resume at : 
 
 Some examples of my technical skills include the following: 
 
-BIG DATA EXPOSURE
+BIG DATA
 
 * Hadoop with R - Use of big data within R in order to examine average airport delay times
 
@@ -18,6 +18,10 @@ https://github.com/ralphbrooks/RHadoop-demo/blob/master/airplane/airplane.R
 * Hadoop with Java - Examination of the same airplane data purely in Java
 
 https://github.com/ralphbrooks/RHadoop-demo/tree/master/airplane/AirplaneProject/src
+
+* Hadoop with Python - Basic Mapper and Reducer to count words in Python with Hadoop.
+
+https://github.com/ralphbrooks/datascience/tree/master/Hadoop/PythonWordcount
 
 
 ADVANCED ANALYTICS
