@@ -4,7 +4,7 @@ datascience
 Hi!  My name is Ralph Brooks, and I am a data scientist based out of Dallas, TX. I am currently looking for new career opportunities. If I can be of assistance to you or if I can provide additional information, feel free to contact me at ralph_brooks@yahoo.com. 
 
 
-As an introduction to my background, feel free to take a look at my resume at : https://github.com/ralphbrooks/datascience/blob/master/Resume/Ralph-Brooks-Resume.doc
+As an introduction to my background, feel free to take a look at my resume at : https://github.com/ralphbrooks/datascience/blob/master/Resume/Ralph-Brooks-Resume.doc?raw=true
 
 
 Some examples of my technical skills include the following: 
